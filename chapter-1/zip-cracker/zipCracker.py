@@ -1,3 +1,8 @@
+'''
+This programm performs a brute-force attack against an encrypted zip file, using
+a given dictionary
+'''
+
 import zipfile
 import optparse
 import sys
