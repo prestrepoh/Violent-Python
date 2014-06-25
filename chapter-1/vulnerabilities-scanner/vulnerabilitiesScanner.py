@@ -2,8 +2,8 @@ import socket
 import os
 import sys
 '''
-This programm gets banners in an ip range in given ports, and then
-compares it with a text file
+This programm gets banners from an ip range in certain ports, and then
+compares it with a text file to search for vulnerabilities
 '''
 
 #Function to get the banner from an ip in a given port

@@ -1,6 +1,6 @@
 '''
-This programm encripts the passwords from a given list, and then compares them
-to perform a brute-force attack
+This programm performs a brute-force attack to Unix encryption, based on a given
+dictionary
 '''
 import crypt
 

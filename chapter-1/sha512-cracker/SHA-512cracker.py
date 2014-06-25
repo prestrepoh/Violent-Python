@@ -1,5 +1,5 @@
 '''
-This programm perform a brut force attack to the SHA-512 file based on a given
+This programm performs a brute-force attack to sha-512 encryption, based on a given
 dictionary
 '''
 import crypt
